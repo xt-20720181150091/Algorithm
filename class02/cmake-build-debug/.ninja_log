@@ -1,0 +1,8 @@
+# ninja log v5
+2	1075	7390457203537771	CMakeFiles/class02.dir/main.cpp.obj	4816625758ec8ceb
+1078	1172	7390457204484343	class02.exe	41d20563edc97709
+0	86	7390457920172222	build.ninja	b4c3bba284bbd42a
+0	1220	7390457932494315	CMakeFiles/class02.dir/GiniCoefficientExperiment.cpp.obj	cb160f94807fb2ef
+1221	1318	7390457933436056	class02.exe	523a70fd33ebada8
+2	1153	7390459005395720	CMakeFiles/class02.dir/GiniCoefficientExperiment.cpp.obj	cb160f94807fb2ef
+1153	1229	7390459006138879	class02.exe	523a70fd33ebada8
